@@ -1,7 +1,7 @@
 {
-  "id": "musicas-rpg-magoris",
+  "id": "musicas-rpg-do-magoris",
   "title": "Musicas RPG Magoris",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -27,5 +27,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/musicas_rpg/refs/heads/main/module.json",
-  "download": "https://github.com/magoris19/musicas_rpg/archive/refs/tags/v1.0.0.zip"
+  "download": "https://github.com/magoris19/musicas_rpg/archive/refs/tags/v1.0.1.zip"
 }
