@@ -1,0 +1,28 @@
+{
+  "id": "musicas-rpg-magoris",
+  "title": "Musicas RPG Magoris",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Magoris",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "musicas",
+      "label": "Musicas",
+      "path": "packs/musicas",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
